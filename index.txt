@@ -2,5 +2,3 @@
 RECETA: Tarta de manzana
 Ingredientes: masa, manzanas, azúcar,aceite de coco
 Versión vegana adaptada
-Ingredientes: masa, manzanas, azúcar, mantequilla
-
